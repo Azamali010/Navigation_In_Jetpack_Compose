@@ -1,5 +1,5 @@
 # What is Navigation in Android?
-'Navigation helps you in understanding how your app moves across different components in your Application.'
+## Navigation helps you in understanding how your app moves across different components in your Application.
 
 # Android JetPack Navigation helps in implementing your high-level navigation in a go-easy approach.
 
